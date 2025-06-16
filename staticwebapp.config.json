@@ -1,0 +1,1 @@
+{"routes":[],"auth":{"rolesSource":"/api/customroles","identityProviders":{"azureActiveDirectory":{"registration":{"openIdIssuer":"https://login.microsoftonline.com/e00ddcdf-1e0f-4be5-a37a-894a4731986a","clientIdSettingName":"AZURE_CLIENT_ID","clientSecretSettingName":"AZURE_CLIENT_SECRET_APP_SETTING_NAME"}}}}}
